@@ -1,0 +1,29 @@
+    h2{
+        color: red;
+    }
+body {
+    background-color: #ecebee;
+    }
+    .p-breadcrumb ul li .p-menuitem-link .p-menuitem-text {
+        color: #0b0b0c !important;
+    }
+    .p-breadcrumb {
+        background: transparent !important; 
+    border: 0ch !important;
+    }
+    
+    .p-breadcrumb ul li .p-menuitem-link .p-menuitem-text {
+        color: #000000 !important;
+    }
+    .p-card {
+        background: transparent !important;
+        color: rgb(8, 8, 8) !important;
+        box-shadow: unset !important;
+    }
+
+    .formdiv{
+        margin: 10px!important;
+    }
+    .p-button {
+        background: #030303 !important;
+    }
